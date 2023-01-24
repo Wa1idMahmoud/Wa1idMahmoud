@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- My name is  [Walid Mahmoud](https://www.linkedin.com/in/walidmahmoud1/), I'm a highly skilled Senior DevOps Engineer and Software Engineer based in London, UK. Passionate about utilizing cutting-edge technologies to automate and optimize software development processes. My expertise in DevOps ranges from infrastructure as code using tools such as Terraform, Ansible and CloudFormation, to containerization and orchestration using Docker and Kubernetes.
+- My name is  [Walid Mahmoud](https://www.linkedin.com/in/walidmahmoud1/). I'm a highly skilled Senior DevOps Engineer and Software Engineer based in London, UK. Passionate about utilizing cutting-edge technologies to automate and optimize software development processes. My expertise in DevOps ranges from infrastructure as code using tools such as Terraform, Ansible and CloudFormation, to containerization and orchestration using Docker and Kubernetes.
 
 - I have worked on the following: `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`, Just to name a few.
 
