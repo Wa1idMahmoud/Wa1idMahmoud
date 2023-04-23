@@ -14,4 +14,12 @@
 
 - In addition, I have experience working on an e-commerce platform built using AngularJS, Python, and Django. Furthermore, I helped in building a web-based application that connects job seekers with potential employers. The front-end of the application was built using ReactJS and Material-UI, while the back-end was developed using NodeJS and Express.js. I also employed DevOps practices to ensure efficient and reliable deployment such as infrastructure as code using Terraform and containerization using Docker. The application was deployed in a Kubernetes cluster, this allowed the application to be easily scaled and managed.
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+  
+  
 ![](https://visitor-badge.laobi.icu/badge?page_id=wa1idmahmoud.wa1idmahmoud)
