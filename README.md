@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wa1idmahmoud&show_icons=true&locale=en" alt="wa1idmahmoud" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wa1idmahmoud&show_icons=true&locale=en&layout=compact" alt="wa1idmahmoud" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wa1idmahmoud&show_icons=true&locale=en" alt="wa1idmahmoud" /></p>
 
 - My name is  [Walid Mahmoud](https://www.linkedin.com/in/walidmahmoud1/). I'm a highly skilled Senior DevOps Engineer and Software Engineer based in London, UK. Passionate about utilizing cutting-edge technologies to automate and optimize software development processes. My expertise in DevOps ranges from infrastructure as code using tools such as Terraform, Ansible and CloudFormation, to containerization and orchestration using Docker and Kubernetes.
 
