@@ -4,6 +4,10 @@
 
 - I have worked on the following: `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`, just to name a few.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wa1idmahmoud&show_icons=true&locale=en" alt="wa1idmahmoud" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wa1idmahmoud&show_icons=true&locale=en&layout=compact" alt="wa1idmahmoud" /></p>
+
 - One example of a project where I put my DevOps skills into practice was with a financial services company, where I was responsible for implementing a continuous delivery pipeline using Jenkins and GitLab. This involved automating the build, test, and deployment processes for multiple applications, resulting in faster and more reliable releases. I also worked on automating the infrastructure provisioning using Terraform, this allowed us to spin up and configure the whole infrastructure for different environments with a single command.
 
 - In another project, I was responsible for designing and implementing a containerized microservices architecture using Docker and Kubernetes. This allowed for easy scaling and management of the application, improved reliability by isolating the different components and services of the application, also I managed the cluster using Kubernetes native tools and also using external tools like Rancher, Helm and Prometheus, this allowed me to monitor, scale and diagnose the issues in the application and the infrastructure.
