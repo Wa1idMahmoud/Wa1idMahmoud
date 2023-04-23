@@ -13,3 +13,5 @@
 - As a full-stack developer, I have a wealth of experience in building and maintaining web-based applications. One project that I am particularly proud of was the development of a web-based CRM system. The front-end was built using ReactJS and the back-end was developed using NodeJS and MongoDB. The application was built with scalability and performance in mind, this allowed the application to handle thousands of requests per second.
 
 - In addition, I have experience working on an e-commerce platform built using AngularJS, Python, and Django. Furthermore, I helped in building a web-based application that connects job seekers with potential employers. The front-end of the application was built using ReactJS and Material-UI, while the back-end was developed using NodeJS and Express.js. I also employed DevOps practices to ensure efficient and reliable deployment such as infrastructure as code using Terraform and containerization using Docker. The application was deployed in a Kubernetes cluster, this allowed the application to be easily scaled and managed.
+
+![](https://visitor-badge.laobi.icu/badge?page_id=wa1idmahmoud.wa1idmahmoud)
